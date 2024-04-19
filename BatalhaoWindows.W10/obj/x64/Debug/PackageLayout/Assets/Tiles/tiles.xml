@@ -1,0 +1,13 @@
+<tile>
+  <visual branding="name" displayName="Batalhão Windows">
+    <binding template="TileMedium">
+      <image src="ms-appx:///Assets/DataImages/eKtQ3yDB-2.png" hint-removeMargin="true" placement="peek" hint-overlay="12" />
+    </binding>
+    <binding template="TileWide">
+      <image src="ms-appx:///Assets/DataImages/eKtQ3yDB-2.png" hint-removeMargin="true" placement="peek" hint-overlay="12" />
+    </binding>
+    <binding template="TileLarge">
+      <image src="ms-appx:///Assets/DataImages/eKtQ3yDB-2.png" hint-removeMargin="true" placement="peek" hint-overlay="12" />
+    </binding>
+  </visual>
+</tile>

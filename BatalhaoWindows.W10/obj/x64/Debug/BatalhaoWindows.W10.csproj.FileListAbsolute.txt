@@ -387,3 +387,4 @@ C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windo
 C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\x64\Debug\resources.en-us.resfiles.intermediate
 C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441563520000000.json
+C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Core\ForBundle\AppxManifest.xml

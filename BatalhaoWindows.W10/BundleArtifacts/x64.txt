@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\BatalhaoWindows.W10_1.0.0.5_x64_Debug.msix
+SymbolPackage=C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\x64\Debug\Symbols\BatalhaoWindows.W10_1.0.0.5_x64_Debug.appxsym

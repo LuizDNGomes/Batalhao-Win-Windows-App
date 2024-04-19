@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3</PackageIdentityName>
-    <PackageIdentityPublisher>CN=AppStudio</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Luiz Henrique</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
@@ -487,129 +487,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\BatalhaoWindows.W10.xr.xml">
       <PackagePath>BatalhaoWindows.W10.xr.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\App.xbf">
-      <PackagePath>App.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListBigHorizontalCardBox.xbf">
-      <PackagePath>Layouts\List\ListBigHorizontalCardBox.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListBigHorizontalCard.xbf">
-      <PackagePath>Layouts\List\ListBigHorizontalCard.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\MenuBig.xbf">
-      <PackagePath>Layouts\List\MenuBig.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListBigVerticalCardBox.xbf">
-      <PackagePath>Layouts\List\ListBigVerticalCardBox.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListBigVerticalCard.xbf">
-      <PackagePath>Layouts\List\ListBigVerticalCard.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListContactCard.xbf">
-      <PackagePath>Layouts\List\ListContactCard.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\MenuMedium.xbf">
-      <PackagePath>Layouts\List\MenuMedium.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListPhoto.xbf">
-      <PackagePath>Layouts\List\ListPhoto.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\MenuSmall.xbf">
-      <PackagePath>Layouts\List\MenuSmall.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListTextCard.xbf">
-      <PackagePath>Layouts\List\ListTextCard.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\MenuText.xbf">
-      <PackagePath>Layouts\List\MenuText.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\CarouselBig.xbf">
-      <PackagePath>Layouts\List\CarouselBig.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\CarouselMedium.xbf">
-      <PackagePath>Layouts\List\CarouselMedium.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListGroupedHome.xbf">
-      <PackagePath>Layouts\List\ListGroupedHome.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\ListGrouped.xbf">
-      <PackagePath>Layouts\List\ListGrouped.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\List\HtmlSection.xbf">
-      <PackagePath>Layouts\List\HtmlSection.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Detail\MultiColumnDetailLayout.xbf">
-      <PackagePath>Layouts\Detail\MultiColumnDetailLayout.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Detail\PhotoDetailLayout.xbf">
-      <PackagePath>Layouts\Detail\PhotoDetailLayout.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Detail\TextDetailLayout.xbf">
-      <PackagePath>Layouts\Detail\TextDetailLayout.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Detail\YouTubeDetailLayout.xbf">
-      <PackagePath>Layouts\Detail\YouTubeDetailLayout.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Detail\RelatedContentDetailLayout.xbf">
-      <PackagePath>Layouts\Detail\RelatedContentDetailLayout.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Controls\DataUpdateInformationControl.xbf">
-      <PackagePath>Layouts\Controls\DataUpdateInformationControl.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Controls\SectionListItemHeader.xbf">
-      <PackagePath>Layouts\Controls\SectionListItemHeader.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Layouts\Controls\HeroImage.xbf">
-      <PackagePath>Layouts\Controls\HeroImage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\HomePage.xbf">
-      <PackagePath>Pages\HomePage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\TwitterListPage.xbf">
-      <PackagePath>Pages\TwitterListPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\YouTubeListPage.xbf">
-      <PackagePath>Pages\YouTubeListPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\FaleConoscoListPage.xbf">
-      <PackagePath>Pages\FaleConoscoListPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\AboutPage.xbf">
-      <PackagePath>Pages\AboutPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\YouTubeDetailPage.xbf">
-      <PackagePath>Pages\YouTubeDetailPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\SearchPage.xbf">
-      <PackagePath>Pages\SearchPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Pages\ShellPage.xbf">
-      <PackagePath>Pages\ShellPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\AppBarButtons.xbf">
-      <PackagePath>Styles\AppBarButtons.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\AppTheme.xbf">
-      <PackagePath>Styles\AppTheme.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\ButtonStyles.xbf">
-      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\DefaultTheme.xbf">
-      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\FontSizes.xbf">
-      <PackagePath>Styles\FontSizes.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\AppColors.xbf">
-      <PackagePath>Styles\AppColors.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\SectionListStyles.xbf">
-      <PackagePath>Styles\SectionListStyles.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Debug\Styles\DetailStyles.xbf">
-      <PackagePath>Styles\DetailStyles.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

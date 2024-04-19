@@ -7,7 +7,7 @@
 
     Para obter mais informações sobre arquivos de pacote de manifesto consulte http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" Publisher="CN=AppStudio" Version="1.0.7.5" ProcessorArchitecture="x64" />
+  <Identity Name="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" Publisher="CN=Luiz Henrique" Version="1.0.0.5" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>AppStudio App</DisplayName>
@@ -23,15 +23,19 @@
     <Resource Language="PT-BR" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="BatalhaoWindows.W10.exe" EntryPoint="BatalhaoWindows.App">
-      <uap:VisualElements DisplayName="Batalhão Windows" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Aplicativo Batalhão Windows. Fique por dentro de todo nosso canal e de novidades a cerca do Universo Windows." BackgroundColor="#140636">
+    <Application Id="App" Executable="BatalhaoWindows.W10.exe" EntryPoint="BatalhaoWin.App">
+      <uap:VisualElements DisplayName="Batalhão Win" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Aplicativo Batalhão Windows. Fique por dentro de todo nosso canal e de novidades a cerca do Universo Windows." BackgroundColor="#140636">
         <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#140636" />
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\Square310x310Logo.png" Square71x71Logo="Assets\Square71x71Logo.png">
           <uap:ShowNameOnTiles>
             <uap:ShowOn Tile="square150x150Logo" />
             <uap:ShowOn Tile="square310x310Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
           </uap:ShowNameOnTiles>
         </uap:DefaultTile>
+        <uap:InitialRotationPreference>
+          <uap:Rotation Preference="landscape" />
+        </uap:InitialRotationPreference>
       </uap:VisualElements>
     </Application>
   </Applications>
@@ -39,6 +43,12 @@
     <Capability Name="internetClient" />
   </Capabilities>
   <Extensions>
+    <Extension Category="windows.certificates">
+      <Certificates>
+        <TrustFlags ExclusiveTrust="true" />
+        <SelectionCriteria HardwareOnly="true" AutoSelect="true" />
+      </Certificates>
+    </Extension>
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>BatalhaoWindows.W10.exe</Path>

@@ -27,13 +27,14 @@ Global
 		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|ARM.Build.0 = Release|ARM
 		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|ARM.Deploy.0 = Release|ARM
 		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|x64.ActiveCfg = Release|x64
-		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|x64.Build.0 = Release|x64
-		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|x64.Deploy.0 = Release|x64
 		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|x86.ActiveCfg = Release|x86
 		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|x86.Build.0 = Release|x86
 		{DEFFDBAA-7B93-43F7-9004-F250DD2C298D}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AF2FA8-6B7D-465C-B903-B1446662E75B}
 	EndGlobalSection
 EndGlobal
