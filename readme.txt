@@ -1,11 +1,13 @@
-﻿WINDOWS APP STUDIO. GENERATED CODE README
+﻿Oi, obrigado pelo interesse em nosso aplicativo!
+Acesse: https://github.com/LuizDNGomes/Batalhao-Win-Windows-App/releases para ter acesso as Releases.
 
-This folder contains the code for the app you created in Windows App Studio.
-It contains projects for an early version of Windows 10.
 
-To compile this version you will need Visual Studio 2015.
+V: 1.0.0.5
+- A versão atual não carrega:
+    -Youtube: Necessário atualização da API.
+    -Twitter: Necessário atualização da API.
 
-If you want to publish this app in the store, dont forget to update your privacy terms.
+- Logo
+    -Irei refazer todo o sistema de Logos, qe estão desatualizadas
 
-Help and support in the Windows App Studio Forum: 
-http://social.msdn.microsoft.com/Forums/wpapps/en-US/home?forum=wpappstudio
+Outras atualizações virão a seguir.
