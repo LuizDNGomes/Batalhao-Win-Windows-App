@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lenovo\\OneDrive - Excel Engenharia\\Documentos\\GitHub\\Batalhao-Win-Windows-App\\BatalhaoWindows.W10\\BatalhaoWindows.W10.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\OneDrive - Excel Engenharia\\Documentos\\GitHub\\Batalhao-Win-Windows-App\\BatalhaoWindows.W10\\BatalhaoWindows.W10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive - Excel Engenharia\\Documentos\\GitHub\\Batalhao-Win-Windows-App\\BatalhaoWindows.W10\\BatalhaoWindows.W10.csproj",
+        "projectName": "BatalhaoWindows.W10",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive - Excel Engenharia\\Documentos\\GitHub\\Batalhao-Win-Windows-App\\BatalhaoWindows.W10\\BatalhaoWindows.W10.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive - Excel Engenharia\\Documentos\\GitHub\\Batalhao-Win-Windows-App\\BatalhaoWindows.W10\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\OneDrive - Excel Engenharia\\Documentos\\GitHub\\Batalhao-Win-Windows-App\\.nuget\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.22621"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.22621": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "uap10.0.22621": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "WindowsAppStudio.DataProviders": {
+              "target": "Package",
+              "version": "[1.5.*, )"
+            },
+            "WindowsAppStudio.Uwp": {
+              "target": "Package",
+              "version": "[1.5.*, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
