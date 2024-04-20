@@ -3,6 +3,11 @@ Acesse: https://github.com/LuizDNGomes/Batalhao-Win-Windows-App/releases para te
 
 
 V: 1.0.0.5
+
+- Certificado da Aplicação:
+    -A versão atual possui um certificado que não é funcional em outras máquinas que não seja a que desenvolveu o software. Para rodar o App atualmente você precisaria clonar o repositório, abrir o arquivo .sln e compilar o aplicativo usando um certificado criado em sua máquina. Isso por hora não é viável pois a aplicação ainda precisa das seguintes correções:
+
+
 - A versão atual não carrega:
     -Youtube: Necessário atualização da API.
     -Twitter: Necessário atualização da API.
