@@ -15,6 +15,6 @@ V: 1.0.0.5
 - Logo
     -Irei refazer todo o sistema de Logos, qe estão desatualizadas
 
-Outras atualizações virão a seguir.
+Outras atualizações virão a seguir. 🥰🥰🥰
 
 Acompanhe o: https://www.youtube.com/@BatalhaoWin ou https://whatsapp.com/channel/0029VaXOTJaAInPiawJB681x para ficar por dentro das atualizações!
