@@ -9,5 +9,6 @@
     <AppxShowAllApps>False</AppxShowAllApps>
     <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
     <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
 </Project>
