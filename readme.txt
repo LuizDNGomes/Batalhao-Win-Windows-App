@@ -13,7 +13,7 @@ V: 1.0.0.5
     -Twitter: Necessário atualização da API.
 
 - Logo
-    -Irei refazer todo o sistema de Logos, qe estão desatualizadas
+    -Irei refazer todo o sistema de Logos, que estão desatualizadas
 
 Outras atualizações virão a seguir. 🥰🥰🥰
 
