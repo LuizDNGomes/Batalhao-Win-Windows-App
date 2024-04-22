@@ -9,7 +9,7 @@
     <SolutionConfiguration>Release|ARM</SolutionConfiguration>
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3</PackageIdentityName>
-    <PackageIdentityPublisher>CN=AppStudio</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Luiz-1234</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\ARM\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>

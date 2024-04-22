@@ -9,7 +9,7 @@
     <SolutionConfiguration>Release|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3</PackageIdentityName>
-    <PackageIdentityPublisher>CN=AppStudio</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Luiz-1234</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\x64\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
