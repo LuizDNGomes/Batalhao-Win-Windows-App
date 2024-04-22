@@ -33,7 +33,7 @@
     <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
     <PackageCertificateKeyFile>
     </PackageCertificateKeyFile>
-    <PackageCertificateThumbprint>CFFD56D7ADA952D3EDF8E108D9FC5E581BB7807C</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>C62135095B2C6E14B2126429C93EB1463B57BB78</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <DebugSymbols>true</DebugSymbols>

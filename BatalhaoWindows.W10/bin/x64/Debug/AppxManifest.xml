@@ -7,7 +7,7 @@
 
     Para obter mais informações sobre arquivos de pacote de manifesto consulte http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" Publisher="CN=Luiz Henrique" Version="1.0.0.5" ProcessorArchitecture="x64" />
+  <Identity Name="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" Publisher="CN=Luiz-1234" Version="1.0.0.5" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>AppStudio App</DisplayName>

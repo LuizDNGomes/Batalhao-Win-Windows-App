@@ -4,7 +4,7 @@
   xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
   xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
   IgnorableNamespaces="uap mp">
-			<Identity Name="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" Publisher="CN=Luiz Henrique" Version="1.0.0.5" />
+			<Identity Name="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" Publisher="CN=Luiz-1234" Version="1.0.0.5" />
 	    <mp:PhoneIdentity PhoneProductId="f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
     <Properties>
         <DisplayName>AppStudio App</DisplayName>
