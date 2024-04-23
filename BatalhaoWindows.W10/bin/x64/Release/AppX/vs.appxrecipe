@@ -9,7 +9,7 @@
     <SolutionConfiguration>Release|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3</PackageIdentityName>
-    <PackageIdentityPublisher>CN=AppStudio</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Luiz-1234</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\obj\x64\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -19,18 +19,18 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>142AA3C7F57F7BB76AD1BFF29BFDEEC9DB393C45DBF2DDF356607D1EBC9DBCE6</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3_1.0.7.5_x64__952nprnvtrww2</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3_952nprnvtrww2!App</RegisteredUserModeAppID>
+    <RegisteredManifestChecksum>9AD0CE3674FE07B0751D02FC4E294746595F1EDB9EE8F30A2ED88A688C454A0A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3_1.0.0.5_x64__6yry05afafbw4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3_6yry05afafbw4!App</RegisteredUserModeAppID>
     <RegisteredPackageID>f7f1ad7a-b2fe-48a8-8edc-c258e118f4f3</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=AppStudio</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.7.5</RegisteredVersion>
+    <RegisteredPackagePublisher>CN=Luiz-1234</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.5</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-19T18:57:02.169</Modified>
+      <Modified>2024-04-23T16:50:13.229</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -135,15 +135,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\BatalhaoWindows.W10.dll">
       <PackagePath>BatalhaoWindows.W10.dll</PackagePath>
-      <Modified>2024-04-19T18:57:01.385</Modified>
+      <Modified>2024-04-23T16:50:12.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\BatalhaoWindows.W10.exe">
       <PackagePath>BatalhaoWindows.W10.exe</PackagePath>
-      <Modified>2024-04-19T18:57:02.139</Modified>
+      <Modified>2024-04-23T16:50:13.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\BatalhaoWindows.W10.pdb">
       <PackagePath>BatalhaoWindows.W10.pdb</PackagePath>
-      <Modified>2024-04-19T18:57:02.138</Modified>
+      <Modified>2024-04-23T16:50:13.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
@@ -219,23 +219,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-19T18:56:14.058</Modified>
+      <Modified>2024-04-23T16:49:25.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\_Resources\0.rsrc">
       <PackagePath>_Resources\0.rsrc</PackagePath>
-      <Modified>2024-04-19T18:56:36.337</Modified>
+      <Modified>2024-04-23T16:49:47.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\_Resources\1.rsrc">
       <PackagePath>_Resources\1.rsrc</PackagePath>
-      <Modified>2024-04-19T18:56:36.338</Modified>
+      <Modified>2024-04-23T16:49:47.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\_Resources\2.rsrc">
       <PackagePath>_Resources\2.rsrc</PackagePath>
-      <Modified>2024-04-19T18:56:36.339</Modified>
+      <Modified>2024-04-23T16:49:47.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Excel Engenharia\Documentos\GitHub\Batalhao-Win-Windows-App\BatalhaoWindows.W10\bin\x64\Release\ilc\_Resources\index.txt">
       <PackagePath>_Resources\index.txt</PackagePath>
-      <Modified>2024-04-19T18:56:36.339</Modified>
+      <Modified>2024-04-23T16:49:47.726</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
